@@ -1,0 +1,1 @@
+<?php$password = ""; //shell password$list_file = "list.php";$shell_check_txt = "run.txt";$cookie_time = 24*7;?>
