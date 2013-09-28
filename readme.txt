@@ -4,6 +4,6 @@ Note : This script is uncompleted, and I released this script as being request f
 
 ALERT ! : THIS SCRIPT IS NOT WORKING AS ME/YOU EXPECTED !
 
-Toturial on how to setup it : http://w3.tbd.my/thread-14252-post-164410.html#pid164410 (Malay Language)
+Toturial on how to setup it : http://w3.tbd.my/thread-14252-post-164398.html#pid164398 (Malay Language)
 
 Mohd Shahril @ 2013 
