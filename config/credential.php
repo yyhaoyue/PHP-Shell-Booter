@@ -1,7 +1,7 @@
 <?php
 
 $credential = array(
-  // add dkt sini
+  "tbd" => "e44f2335"
 );
 
 ?>
